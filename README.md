@@ -1,2 +1,1 @@
-# 02_introduction
-introduction to python
+# 02_first program
